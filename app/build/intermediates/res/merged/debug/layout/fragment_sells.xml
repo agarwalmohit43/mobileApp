@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:orientation="vertical"
+    android:id="@+id/linearLayout">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:id="@+id/textInputLayout">
+
+        <AutoCompleteTextView
+            android:id="@+id/partyAutoCompleteSells"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:theme="@style/Autocomplete"
+            android:ems="10"
+            android:hint="Party Name"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true">
+            <requestFocus />
+        </AutoCompleteTextView>
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="37dp"
+        android:layout_below="@+id/textInputLayout"
+        android:layout_alignParentStart="true">
+
+        <AutoCompleteTextView
+            android:id="@+id/productAutoCompleteSells"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:hint="Product"
+            android:theme="@style/Autocomplete">
+
+            <requestFocus />
+        </AutoCompleteTextView>
+
+    </android.support.design.widget.TextInputLayout>
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:orientation="horizontal"
+        android:layout_marginTop="42dp"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2">
+
+
+        <EditText
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Qty."
+            android:inputType="number"
+            android:id="@+id/qty_sells_editext"
+            android:padding="25dp"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Rate"
+            android:inputType="numberDecimal"
+            android:id="@+id/rate_sells_editext"
+            android:padding="25dp" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Discount"
+            android:inputType="numberDecimal"
+            android:id="@+id/dis_sells_editext"
+            android:padding="25dp" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Tax"
+            android:inputType="numberDecimal"
+            android:id="@+id/tax_sells_editext"
+            android:padding="25dp"/>
+
+    </LinearLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:layout_above="@+id/addToCart_sellsButton"
+        android:layout_alignParentStart="true">
+
+        <EditText
+            android:id="@+id/comment_Sell"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Comment"
+            android:inputType="textCapWords" />
+    </android.support.design.widget.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/addToCart_sellsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add To Cart"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="58dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

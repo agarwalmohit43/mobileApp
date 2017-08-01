@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/fragment_sells.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/fragment_sells.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/fragment_transaction.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/fragment_transaction.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/activity_update_customer.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/activity_update_customer.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/fragment_payments.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/fragment_payments.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/fragment_checkout.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/activity_searchable.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/activity_searchable.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/fragment_customer.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/fragment_customer.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/navigation_header.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/navigation_header.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/fragment_product.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/fragment_product.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/checkout_row.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/checkout_row.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/toolbar_design.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/toolbar_design.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/add_customer.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/add_customer.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/fragment_sells.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/fragment_sells.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/custom_row_transaction.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/custom_row_transaction.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/add_customer.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/add_customer.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/fragment_transaction.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/fragment_transaction.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/fragment_payments.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/fragment_payments.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/checkout_row.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/checkout_row.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/toolbar_design.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/toolbar_design.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/activity_update_customer.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/activity_update_customer.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/custom_row_transaction.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/custom_row_transaction.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/inventory_list_row.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/inventory_list_row.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/inventory_list_row.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/inventory_list_row.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/customer_list_row.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/customer_list_row.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/navigation_header.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/navigation_header.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/customer_list_row.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/customer_list_row.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/fragment_customer.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/fragment_customer.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/dbcent91/.android/build-cache/eaface6a78d243752cb9ab3ec3e1c16bdcf27067/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/fragment_product.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/fragment_product.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/layout/activity_searchable.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/layout/activity_searchable.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/fragment_checkout.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/dbcent91/.android/build-cache/354a85b9a470119846e8813736f1e01dfde0b6ec/output/res/layout/abc_expanded_menu_layout.xml"
+    }
+]

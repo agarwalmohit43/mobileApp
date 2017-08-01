@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_add_edit.png",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/mipmap-hdpi/ic_add_edit.png"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/mipmap-hdpi/cart.png",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/mipmap-hdpi/cart.png"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_add_edit.png",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/mipmap-hdpi/ic_add_edit.png"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/mipmap-hdpi/cart.png",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/mipmap-hdpi/cart.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/menu/cart_sell.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/menu/cart_sell.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/menu/cart_sell.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/menu/cart_sell.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/menu/search_menu.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/menu/search_menu.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/mobileapp/app/build/intermediates/res/merged/debug/menu/grouped_header_navigation_item.xml",
+        "source": "/home/dbcent91/Documents/Android/final/mobileapp/app/src/main/res/menu/grouped_header_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/menu/search_menu.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/menu/search_menu.xml"
+    },
+    {
+        "merged": "/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/res/merged/debug/menu/grouped_header_navigation_item.xml",
+        "source": "/home/dbcent91/Documents/Android/final/Mantoo3/app/src/main/res/menu/grouped_header_navigation_item.xml"
+    }
+]

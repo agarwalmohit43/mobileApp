@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/navigation_groupheader1"
+    android:title="Function">
+    <menu>
+        <item
+            android:id="@+id/navigation_Customer"
+            android:checkable="true"
+            android:icon="@drawable/ic_home_white"
+            app:actionViewClass="android.widget.TextView"
+            android:title="Customers"/>
+
+        <item
+            android:id="@+id/navigation_Product"
+            android:checkable="true"
+            app:actionViewClass="android.widget.TextView"
+            android:icon="@drawable/ic_home_white"
+            android:title="Products"/>
+
+        <item
+            android:id="@+id/navigation_Sells"
+            android:checkable="true"
+            app:actionViewClass="android.widget.TextView"
+            android:icon="@drawable/ic_home_white"
+            android:title="Sells"/>
+
+        <item
+            android:id="@+id/navigation_Payments"
+            android:checkable="true"
+            app:actionViewClass="android.widget.TextView"
+            android:icon="@drawable/ic_home_white"
+            android:title="Payments"/>
+
+        <item
+            android:id="@+id/navigation_Transaction"
+            android:checkable="true"
+            app:actionViewClass="android.widget.TextView"
+            android:icon="@drawable/ic_home_white"
+            android:title="Transaction"/>
+    </menu>
+</item>
+
+    <item android:id="@+id/navigation_groupheader2"
+        android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/navigation_setting"
+                android:checkable="true"
+                android:icon="@drawable/ic_home_white"
+                android:title="User Setting"/>
+
+            <item
+                android:id="@+id/navigation_Sync"
+                android:checkable="true"
+                android:icon="@drawable/ic_home_white"
+                android:title="Sync"/>
+        </menu>
+    </item>
+</menu>

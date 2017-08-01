@@ -1,0 +1,7 @@
+#Tue Aug 01 17:54:46 IST 2017
+base.0=/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3abd60f7fe7b51f6382b90b890d9376b3558d26a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db099727266ee274f63beab330a28b038e909d64/classes.dex
+base.1=/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db099727266ee274f63beab330a28b038e909d64
+file.0=/home/dbcent91/Documents/Android/final/Mantoo3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3abd60f7fe7b51f6382b90b890d9376b3558d26a/classes.dex
